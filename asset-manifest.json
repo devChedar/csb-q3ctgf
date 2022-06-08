@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://devchedar.github.io/csb-q3ctgf/static/css/main.1922b6be.chunk.css",
+    "main.js": "https://devchedar.github.io/csb-q3ctgf/static/js/main.2d6b3c8d.chunk.js",
+    "main.js.map": "https://devchedar.github.io/csb-q3ctgf/static/js/main.2d6b3c8d.chunk.js.map",
+    "runtime-main.js": "https://devchedar.github.io/csb-q3ctgf/static/js/runtime-main.cd5d8cbf.js",
+    "runtime-main.js.map": "https://devchedar.github.io/csb-q3ctgf/static/js/runtime-main.cd5d8cbf.js.map",
+    "static/js/2.f4c68684.chunk.js": "https://devchedar.github.io/csb-q3ctgf/static/js/2.f4c68684.chunk.js",
+    "static/js/2.f4c68684.chunk.js.map": "https://devchedar.github.io/csb-q3ctgf/static/js/2.f4c68684.chunk.js.map",
+    "index.html": "https://devchedar.github.io/csb-q3ctgf/index.html",
+    "static/css/main.1922b6be.chunk.css.map": "https://devchedar.github.io/csb-q3ctgf/static/css/main.1922b6be.chunk.css.map",
+    "static/js/2.f4c68684.chunk.js.LICENSE.txt": "https://devchedar.github.io/csb-q3ctgf/static/js/2.f4c68684.chunk.js.LICENSE.txt",
+    "static/media/netflix-logo.fb4db42b.png": "https://devchedar.github.io/csb-q3ctgf/static/media/netflix-logo.fb4db42b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd5d8cbf.js",
+    "static/js/2.f4c68684.chunk.js",
+    "static/css/main.1922b6be.chunk.css",
+    "static/js/main.2d6b3c8d.chunk.js"
+  ]
+}
